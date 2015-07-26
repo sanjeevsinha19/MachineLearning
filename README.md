@@ -1,5 +1,5 @@
 # MachineLearning
-Project Assignm,ent
+Project Assignment
 
 #Practice Machine learning project
 
